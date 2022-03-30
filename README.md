@@ -12,7 +12,7 @@ Email: astrodev@gmail.com.br
 Senha: 123456
 
 ### Deploy 
-https://spooky-bell.surge.sh/
+https://drica-labex.vercel.app/
 
 ### Imagens
 ![1](https://user-images.githubusercontent.com/87716793/156920356-53f29edf-bdf9-4865-a5d8-ac031099fbf3.jpg)
